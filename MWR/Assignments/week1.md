@@ -3,7 +3,7 @@
 ## 🎯 What This Assignment Is About
 
 This assignment introduces you to **web application security (AppSec)** using **Burp Suite**, a powerful tool used by ethical hackers and security professionals.
-Link to the room: https://tryhackme.com/room/cve202226923
+Link to the room: https://tryhackme.com/jr/MWR-CyberSec-Week-1-8w-9ypa  
 
 You learn how to:
 - 🌍 Understand how web apps communicate (HTTP/HTTPS)
