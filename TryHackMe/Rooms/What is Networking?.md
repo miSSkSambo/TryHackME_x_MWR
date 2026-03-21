@@ -3,7 +3,7 @@
 > 🧠 Networking fundamentals + beginner-friendly security context  
 > 🔌 How devices connect, identify, and communicate
 
-link to the web: https://tryhackme.com/room/whatisnetworking
+link to the room: https://tryhackme.com/room/whatisnetworking
 
 ---
 
