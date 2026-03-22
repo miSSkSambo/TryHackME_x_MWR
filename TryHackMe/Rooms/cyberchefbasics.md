@@ -79,8 +79,10 @@ The room focuses on:
 **A:** 01001110  
 
 **Q:** What is the URL encoded value of https://tryhackme.com/r/careers?  
-**A:** https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Fcareers%3F  
-
+**A:** 
+'''
+https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Fcareers%3F  
+'''
 ---
 
 ## 🔹 Task 6: Your First Official Cook
