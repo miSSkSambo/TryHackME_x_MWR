@@ -12,6 +12,7 @@ This assignment focuses on three fundamental cybersecurity concepts:
 
 #️⃣ **Hashing** – A one-way process used to protect data like passwords. It cannot be reversed and is used for verification and integrity.  
 
+link to the room: https://tryhackme.com/jr/mwr-virtual-internship-week-2-we-love-cybersec 
 ---
 
 ### 💡 What You Learn
@@ -28,7 +29,7 @@ This assignment focuses on three fundamental cybersecurity concepts:
 - Penetration testing  
 - Secure application development  
 
-link to the room: https://tryhackme.com/jr/mwr-virtual-internship-week-2-we-love-cybersec  
+ 
 ---
 ## task 1[introduction]
 completed
