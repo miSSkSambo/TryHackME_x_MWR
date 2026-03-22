@@ -13,98 +13,101 @@ This assignment focuses on understanding **authentication concepts** and how the
 The goal is to understand both **how authentication works** and **how attackers exploit weak security systems**. :contentReference[oaicite:0]{index=0}
 
 ---
+link for the room: https://tryhackme.com/jr/MWR-CyberSec-Week-3-Authentication-and-passwords 
 
-## 🧩 Task 1: Introduction
-**Q:** No question required  
-**A:** N/A  
+## 🧩 Task 1 [Introduction]
+**No answer needed**
 
 ---
 
-## 🔑 Task 2: Authentication
+## 🔑 Task 2 [Authentication]
 
-### IAAA Matching
-
-**Q:** I can access the admin panel  
+**Q:** Match the IAAA: I can access the admin panel  
 **A:** Authorisation  
 
-**Q:** A picture of me accessing my profile page  
+**Q:** Match the IAAA: A picture of me accessing my profile page  
 **A:** Auditing  
 
-**Q:** Connecting from my home IP address  
+**Q:** Match the IAAA: Connecting from my home IP address  
 **A:** Authentication  
 
-**Q:** I am Tinus  
+**Q:** Match the IAAA: I am Tinus  
 **A:** Identification  
 
 ---
 
-### Authentication Factors
-
-**Q:** Answering security questions  
+**Q:** What authentication factor is: Answering a security questions  
 **A:** Something you know  
 
-**Q:** Interpretive dance  
+**Q:** What authentication factor is: Interpretive Dance  
 **A:** Something you do  
 
-**Q:** Eyeball scan  
+**Q:** What authentication factor is: A scan of my eyeball  
 **A:** Something you are  
 
 ---
 
-## ⚔️ Task 3: Attacking Login
+## ⚔️ Task 3 [Attacking Log In]
 
-**Q:** Most well-known password list  
+**Q:** What is the most well known password list  
 **A:** rockyou.txt  
 
-**Q:** Attack using 1 password against many usernames  
-**A:** Password spray  
+**Q:** What attack uses 1 password against many usernames  
+**A:** password spray  
 
-**Q:** Attack using 1 username with many passwords  
-**A:** Brute force  
-
----
-
-## 🛠️ Task 4: Hydra Introduction
-**Q:** No question required  
-**A:** N/A  
+**Q:** What attack uses 1 username with many passwords  
+**A:** brute force  
 
 ---
 
-## 💻 Task 5: Using Hydra
+## 🛠️ Task 4 [Hydra Introduction]
+**No answer needed**
 
-**Q:** Molly's web password (Flag 1)  
+---
+
+## 💻 Task 5 [Using Hydra]
+
+**Q:** Use Hydra to brute-force molly's web password. What is the value of flag 1?  
 **A:** THM{2673a7dd116de68e85c48ec0b1f2612e}  
 
-**Q:** Molly's SSH password (Flag 2)  
+**Q:** Use Hydra to brute-force molly's SSH password. What is the value of flag 2?  
 **A:** THM{c8eeb0468febbadea859baeb33b2541b}  
 
 ---
 
-## 🚀 Task 6: Start the Next VM
-**Q:** No question required  
-**A:** N/A  
+## 🚀 Task 6 [Start the next vm]
+**No answer needed**
 
 ---
 
-## 🧠 Task 7: Challenge
+## 🧠 Task 7 [Challenge]
 
-**Q:** SSH password for tommyboy1  
+**Q:** What is the ssh password for the tommyboy1 user? This password is a URL encoded version of one of the passwords from the password list. So first encode the special characters in that list, then perform the attack with the encoded passwords  
 **A:** 1qaz@WSX  
 
-**Q:** Folder name after SSH login  
+---
+
+**Q:** When you ssh in, what is the name of the folder that you can see?  
 **A:** DVWA-master  
 
-**Q:** How to differentiate login success/failure  
+---
+
+**Q:** How do we differentiate between a failed and successful logins on the web application?  
 **A:** Location Response Header  
 
-**Q:** Admin password (web application)  
+---
+
+**Q:** What is the password for the admin user on the web application? This attack can't use hydra because of the user_token, so you would need to use another tool that can request a new token each time.
+
+You also need to use the unencoded version of the password list for this task
+
+This is a difficult challenge, so if you do not complete this it is completely okay  
 **A:** 1qaz@WSX  
 
 ---
 
-## 🎯 Task 8: More Challenges
-**Q:** No question required  
-**A:** N/A  
+## 🎯 Task 8 [More challenges]
+**No answer needed**
 
 ---
 
