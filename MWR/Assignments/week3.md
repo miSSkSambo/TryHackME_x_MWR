@@ -1,5 +1,6 @@
-# 🔐 Week 3 Assignment – Authentication & Brute Force Attacks
+# 🔐 Week 3 Assignment – Authentication & Brute Force Attacks - Q &  A notes
 
+---
 ## 📌 Assignment Summary
 This assignment focuses on understanding **authentication concepts** and how they are attacked in cybersecurity. It covers:
 
