@@ -3,6 +3,7 @@
 ## 📌 Summary
 This room explains how computers store and display text using character encoding. It introduces ASCII, which represents basic English characters using numbers, and Unicode, which supports characters from all languages including emojis. It also covers UTF-8, UTF-16, and UTF-32, and explains how encoding mismatches can cause unreadable or “gibberish” text.
 
+link to the  room: https://tryhackme.com/room/dataencoding
 ---
 
 ## 🧩 Task 1
