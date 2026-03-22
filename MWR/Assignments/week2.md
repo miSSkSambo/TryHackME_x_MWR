@@ -13,7 +13,7 @@ This assignment focuses on three fundamental cybersecurity concepts:
 #️⃣ **Hashing** – A one-way process used to protect data like passwords. It cannot be reversed and is used for verification and integrity.  
 
 link to the room: https://tryhackme.com/jr/mwr-virtual-internship-week-2-we-love-cybersec 
-
+website used to decode : burpsuite or https://cyberchef.org/
 ---
 
 ### 💡 What You Learn
@@ -44,6 +44,8 @@ completed
 
 **Q:** Decode TXkgRmlyc3QgQmFzZTY0IERlY29kZQo=  
 **A:** My First Base64 Decode  
+<img width="1327" height="423" alt="image" src="https://github.com/user-attachments/assets/36bbf371-f91e-49fb-8d74-dd57b3baa10c" />
+
 
 **Q:** What HTML characters should be encoded to prevent XSS  
 **A:** &,<,>,",'  
@@ -52,6 +54,8 @@ completed
 %2Froom%2Fmwr-virtual-internship-week-2-we-love-cybersec%3FParameter%3DURL%20parameter%201%26Param2%3DAnother%20we!rd%20parameter  
 
 **A:** /room/mwr-virtual-internship-week-2-we-love-cybersec?Parameter=URL parameter 1&Param2=Another we!rd parameter  
+<img width="1487" height="384" alt="image" src="https://github.com/user-attachments/assets/ebb3a204-c055-4eae-bbb0-15c15c2aa618" />
+
 
 **Q:** What is the HTML encoded value for &  
 **A:** &amp  
@@ -67,6 +71,7 @@ completed
 Value = "Let's encrypt something", key = "Weneeda24bytekeyforthis1, IV = "Theivis8"  
 
 **A:** d1cd629d1771610b41b2d4975acc178f3d158b4fd66cf5bf  
+<img width="1106" height="443" alt="image" src="https://github.com/user-attachments/assets/99268cf8-cad7-4399-9825-d0c279b5cf73" />
 
 **Q:** Can you decrypt the following data. Encryption schema is "Blowfish".  
 mode = "CBC", key = "Thisisakey", IV = "password", Encrypted value = "88f022072f8c065c8abd87b19b35008b6c9763b78a9e4834"  
