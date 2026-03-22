@@ -1,4 +1,4 @@
-# 🔐 Burp Suite – Detailed Q&A Notes
+# Week 2 assignment🔐 Burp Suite – Detailed Q&A Notes
 ---
 ## 🎯 What This Assignment Is About
 
