@@ -93,8 +93,11 @@ https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Fcareers%3F
 **Q:** What is the base64 encoded value of the string "Nice Room!"?  
 **A:** TmljZSBSb29tIQ==  
 
-**Q:** What is the URL decoded value for https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Froom%2Fcyberchefbasics?  
-**A:** https://tryhackme.com/r/room/cyberchefbasics  
+**Q:** What is the URL decoded value for  https://tryhackme.com/r/room/cyberchefbasics   ?  
+**A:**
+'''
+https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Froom%2Fcyberchefbasics
+'''
 
 **Q:** What is the datetime string for the Unix timestamp 1725151258?  
 **A:** Sun 1 September 2024 00:40:58 UTC  
