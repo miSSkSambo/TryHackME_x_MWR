@@ -10,7 +10,7 @@ This assignment focuses on understanding **authentication concepts** and how the
 - Using **Hydra**, a brute-force tool, to crack passwords
 - Practical challenges involving **SSH and web authentication attacks**
 
-The goal is to understand both **how authentication works** and **how attackers exploit weak security systems**. :contentReference[oaicite:0]{index=0}
+The goal is to understand both **how authentication works** and **how attackers exploit weak security systems**. 
 
 ---
 link for the room: https://tryhackme.com/jr/MWR-CyberSec-Week-3-Authentication-and-passwords 
