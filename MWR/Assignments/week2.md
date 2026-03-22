@@ -1,4 +1,4 @@
-# 🔐 Encoding, Encryption & Hashing 
+# Week 2 assignment🔐 Encoding, Encryption & Hashing - Q&A Notes
 
 ---
 
