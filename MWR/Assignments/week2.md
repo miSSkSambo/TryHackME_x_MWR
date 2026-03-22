@@ -1,4 +1,4 @@
-# 🔐 Encoding, Encryption & Hashing – Q&A Notes
+# 🔐 Encoding, Encryption & Hashing 
 
 ---
 
@@ -28,6 +28,7 @@ This assignment focuses on three fundamental cybersecurity concepts:
 - Penetration testing  
 - Secure application development  
 
+link to the room: https://tryhackme.com/jr/mwr-virtual-internship-week-2-we-love-cybersec  
 ---
 ## task 1[introduction]
 completed
