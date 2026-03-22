@@ -51,6 +51,7 @@ A: &,<,>,",'
 
 Q: Please URL Decode Key Characters for:
 %2Froom%2Fmwr-virtual-internship-week-2-we-love-cybersec%3FParameter%3DURL%20parameter%201%26Param2%3DAnother%20we!rd%20parameter
+
 A: /room/mwr-virtual-internship-week-2-we-love-cybersec?Parameter=URL parameter 1&Param2=Another we!rd parameter
 
 Q: What is the HTML encoded value for &
