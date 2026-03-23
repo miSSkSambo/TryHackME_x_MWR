@@ -55,7 +55,7 @@ Unlike vulnerability assessments and penetration testing, red teaming focuses on
 **A:** Nay  
 
 **Q:** Highly organised groups of skilled attackers are nowadays referred to as ...  
-**A:** Advanced Persistent Threats :contentReference[oaicite:0]{index=0}  
+**A:** Advanced Persistent Threats 
 
 ---
 
