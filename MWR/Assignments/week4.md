@@ -46,125 +46,138 @@ You will:
 
 ---
 
-# ✅ Questions and Answers
-
 ## 🔹 Task 1: Introduction
 
-**Q:** Ready to start  
+**Q:** I've read up on the topics we covered this week and I'm ready to tackle my fourth assignment  
 **A:** No answer needed  
 
 ---
 
 ## 🔹 Task 2: IAAA Model
 
-**Q:** Access to read/send email  
+**Q:** You are granted access to read and send an email. What is the name of this process?  
 **A:** Authorisation  
 
-**Q:** Enforcing proper use of access  
+**Q:** Although you have write access, you should only make changes if necessary for the task. Which process is required to enforce this policy?  
 **A:** Accountability  
 
-**Q:** Enter username  
+**Q:** Which process would require you to enter your username?  
 **A:** Identification  
 
 ---
 
 ## 🔹 Task 3: Identification
 
-**Q:** Which cannot be used for identification?  
+**Q:** Which of the following cannot be used for identification?  
+- Landline phone number  
+- Street number  
+- Health insurance card number  
+- Student ID number  
+
 **A:** Street number  
 
 ---
 
 ## 🔹 Task 4: Authentication
 
-**Q:** Swipe card + PIN  
-**A:** 4 (2FA)  
+**Q:** You need to swipe your card and enter a four-digit PIN to access the elevator. Under which group does this authentication fall?  
+
+1. Something you know  
+2. Something you have  
+3. Something you are  
+4. 2FA  
+
+**A:** 4  
 
 ---
 
-## 🔹 Task 5: Authorisation & Access Control
+## 🔹 Task 5: Authorisation and Access Control
 
-**Q:** Policy for secretary sending emails  
+(Answer with 1 or 2)  
+1 = Authorisation  
+2 = Access Control  
+
+**Q:** The new policy states that the secretary should be able to send an email on the manager’s behalf. What is this policy dictating?  
 **A:** 1  
 
-**Q:** Hotel staff access decision  
+**Q:** The hotel management decided that the cleaning staff needed access to all the hotel rooms to do their work. What phase is this decision part of?  
 **A:** 1  
 
-**Q:** Prevent file modification  
+**Q:** You shared a document with your colleague and gave them view permissions so they could read without making changes. What would ensure that your file won’t be modified?  
 **A:** 2  
 
 ---
 
 ## 🔹 Task 6: Accountability
 
-**Q:** Ready for practical  
+**Q:** I'm done reading the information above Captain Jonno and ready to explore the practical!  
 **A:** No answer needed  
 
 ---
 
-## 🔹 Task 7: IDOR Example 1
+## 🔹 Task 7: Broken Authorisation Example 1
 
-**Q:** Flag  
+**Q:** What is the Flag from the authorisation bypass example website?  
 **A:** THM{IDOR-VULN-FOUND}  
 
 ---
 
-## 🔹 Task 8: IDOR Example 2
+## 🔹 Task 8: Broken Authorisation Example 2
 
-**Q:** Username (ID 1)  
+**Q:** What is the username for user id 1?  
 **A:** adam84  
 
-**Q:** Email (ID 3)  
+**Q:** What is the email address for user id 3?  
 **A:** j@fakemail.thm  
 
 ---
 
 ## 🔹 Task 9: Token-Based Authentication
 
-**Q:** JWT header used  
+**Q:** What is the common header used to transport the JWT in a request?  
 **A:** Authorization: Bearer  
 
 ---
 
-## 🔹 Task 10: JWT Basics
+## 🔹 Task 10: JSON Web Tokens
 
-**Q:** HS256 type  
+**Q:** HS256 is an example of what type of signing algorithm?  
 **A:** Symmetric  
 
-**Q:** RS256 type  
+**Q:** RS256 is an example of what type of signing algorithm?  
 **A:** Asymmetric  
 
-**Q:** Encrypted JWT  
+**Q:** What is the name used for encrypted JWTs?  
 **A:** JWE  
 
 ---
 
-## 🔹 Task 11: JWT Exploitation (Example 1)
+## 🔹 Task 11: JWT Sensitive Information Disclosure
 
-**Q:** Flag  
+**Q:** What is the flag for example 1?  
 **A:** THM{c64473e0-aca8-4827-8f50-1bb747da6257}  
 
 ---
 
-## 🔹 Task 12: JWT Attacks
+## 🔹 Task 12: JWT Signature Validation Mistakes
 
-**Q:** Flag (Example 2)  
+**Q:** What is the flag for example 2?  
 **A:** THM{251be376-e73e-4585-90c3-87fda5723782}  
 
-**Q:** Flag (Example 3)  
+**Q:** What is the flag for example 3?  
 **A:** THM{867ebbea-c3b9-4ef2-9d94-21127a54156f}  
 
-**Q:** Flag (Example 4)  
+**Q:** What is the flag for example 4?  
 **A:** THM{0db46b86-50d9-4dd7-ba32-223a8662056a}  
 
-**Q:** Flag (Example 5)  
+**Q:** What is the flag for example 5?  
 **A:** THM{721260b7-690b-46f5-bfa5-e77006a4ef95}  
 
 ---
 
-## 🔹 Task 13: Completion
+## 🔹 Task 13: More Challenges
 
-**Q:** Finished assignment  
+**Q:** I'm done week 4 YAY!!!!  
 **A:** No answer needed  
 
 ---
