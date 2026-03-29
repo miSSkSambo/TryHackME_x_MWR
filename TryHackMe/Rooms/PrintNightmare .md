@@ -2,7 +2,7 @@
 
 ---
 
-link to the room:
+link to the room: https://tryhackme.com/room/printnightmarehpzqlp8
 
 ---
 
