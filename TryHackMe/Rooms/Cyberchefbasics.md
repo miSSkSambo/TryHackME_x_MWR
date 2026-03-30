@@ -1,4 +1,4 @@
-# 🧪 CyberChef: The Basics (TryHackMe)
+# 🧪 CyberChef: The Basics 
 ---
 
 link to the room:https://tryhackme.com/room/cyberchefbasics
