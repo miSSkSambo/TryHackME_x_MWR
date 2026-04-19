@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe × MWR CyberSec Internship Portfolio
+# 🛡️ TryHackMe × MWR CyberSec 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/miSSkSambo/TryHackME_x_MWR?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/miSSkSambo/TryHackME_x_MWR?color=green)
