@@ -9,6 +9,9 @@ These badges from TryHackMe represent my hands-on cybersecurity learning journey
 
 - **Terminaled** – Completed tasks involving Linux terminal usage and command-line fundamentals.  
   https://tryhackme.com/Venomkitten/badges/terminaled  
+<img width="1009" height="581" alt="Screenshot 2026-04-29 023450" src="https://github.com/user-attachments/assets/908f5377-9c88-43f4-baa3-8da9cb365012" />
+
+
 
 - **3 Day Streak** – Logged in and completed rooms for 3 consecutive days.  
   https://tryhackme.com/Venomkitten/badges/3-day-streak  
