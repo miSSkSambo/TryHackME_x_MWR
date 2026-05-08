@@ -116,7 +116,7 @@ Topics covered include:
 ---
 
 ### Q: Go to http://MACHINE_IP/challenges/index.php and then capture Flag2 at /etc/flag2
-**A:** 
+**A:** `MWR{Flag-2-easy-for-me}`
 
 ---
 
