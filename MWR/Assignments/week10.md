@@ -212,7 +212,14 @@ Topics covered include:
 # 🔹 Task 6: LDAP Injection
 
 ### Q: What is the flag?
-**A:** 
+**A:** `THM{!b451c_ld4p_inj3ct1ON!}! `
+
+<img width="947" height="677" alt="Screenshot 2026-05-08 224459" src="https://github.com/user-attachments/assets/75d64150-48e9-4cb5-ab23-accacec3338d" />
+
+Username: f*
+Password: *
+
+<img width="923" height="593" alt="image" src="https://github.com/user-attachments/assets/581ba0cb-bd94-426a-8d23-ddd02eb9bc95" />
 
 ---
 
