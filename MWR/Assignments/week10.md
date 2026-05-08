@@ -113,10 +113,24 @@ Topics covered include:
 ### Q: Go to http://MACHINE_IP/challenges/index.php and then capture Flag1 at /etc/flag1
 **A:** `MWR{This-is-My-flag-Now}`
 
+<img width="948" height="862" alt="f#1" src="https://github.com/user-attachments/assets/08eafc23-1719-4cd8-bb20-03e1b528ca84" />
+
+<img width="960" height="852" alt="f1" src="https://github.com/user-attachments/assets/97f1fa34-9d54-4438-baaa-411603c2a74d" />
+
+
 ---
 
 ### Q: Go to http://MACHINE_IP/challenges/index.php and then capture Flag2 at /etc/flag2
 **A:** `MWR{Flag-2-easy-for-me}`
+
+<img width="947" height="391" alt="Screenshot 2026-05-08 204038" src="https://github.com/user-attachments/assets/269ac80e-2c9e-4bb8-b6bc-b66e712f8f6c" />
+
+<img width="755" height="195" alt="Screenshot 2026-05-08 204454" src="https://github.com/user-attachments/assets/c3b9cfda-b676-46f6-aae2-c5b3ce07b80d" />
+
+<img width="941" height="737" alt="Screenshot 2026-05-08 203942" src="https://github.com/user-attachments/assets/0d02cf50-2f5e-4d40-bba3-29acc3f764f8" />
+
+<img width="947" height="777" alt="Screenshot 2026-05-08 203957" src="https://github.com/user-attachments/assets/4fe9679d-44ea-4f32-a2db-fa1e5320410c" />
+
 
 ---
 
