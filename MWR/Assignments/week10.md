@@ -121,7 +121,7 @@ Topics covered include:
 ---
 
 ### Q: Go to http://MACHINE_IP/challenges/index.php and then capture Flag3 at /etc/flag3
-**A:** 
+**A:** `MWR{3-up-3-down-gg}`
 
 ---
 
