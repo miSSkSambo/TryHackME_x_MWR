@@ -195,6 +195,7 @@ Topics covered include:
 ---
 
 ### Q: What is the content of the file 14232d6db2b5fd937aa92e8b3c48d958.txt in the /opt directory?
+**A:** `THM{1N_b4Nd_1$_34sYY}`
 
 ---
 
