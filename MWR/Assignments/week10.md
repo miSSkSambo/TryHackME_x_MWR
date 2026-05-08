@@ -111,7 +111,7 @@ Topics covered include:
 ---
 
 ### Q: Go to http://MACHINE_IP/challenges/index.php and then capture Flag1 at /etc/flag1
-**A:** 
+**A:** `MWR{This-is-My-flag-Now}`
 
 ---
 
