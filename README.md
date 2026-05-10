@@ -28,25 +28,49 @@ It demonstrates **hands-on cybersecurity skills**, including identifying, exploi
 - Vulnerability Analysis (OWASP Top 10)  
 - Exploitation Techniques  
 - Secure Coding Awareness  
-- Technical Reporting  
+- Technical Reporting
+- Session management analysis
 
 ---
 
 ## 🧪 Topics Covered
-- Cross-Site Scripting (XSS)  
-- Cross-Site Request Forgery (CSRF)  
-- SQL Injection  
-- Authentication & Session Flaws  
-- Input Validation Vulnerabilities  
-- Secure Development Practices  
+| Category | Concepts |
+|---|---|
+| Web Security | Authentication flaws, session management |
+| Injection Attacks | SQLi, NoSQLi, LDAPi, XXE |
+| File Vulnerabilities | LFI, Path Traversal, File Upload |
+| Client-Side Security | XSS, CSRF |
+| Server-Side Security | RCE, insecure validation |
+| Security Practices | Secure coding awareness |
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Burp Suite  
-- CyberChef  
-- Browser DevTools  
-- Linux CLI  
+- Linux command line
+- Burp Suite
+- Gobuster
+- Browser DevTools
+- CyberChef
+- PHP basics
+- MongoDB concepts
+- LDAP fundamentals
+- XML parsing concepts
+- Apache
+- Kali linux
+
+---
+
+## ⚔️ Exploitation Techniques
+- SQL Injection
+- NoSQL Injection
+- XXE Injection
+- LDAP Injection
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- Path Traversal
+- Local File Inclusion (LFI)
+- File Upload Vulnerabilities
+- Remote Code Execution (RCE)
 
 ---
 
@@ -75,10 +99,7 @@ This repository reflects practical cybersecurity experience, not just theory.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miSSkSambo&show_icons=true&theme=tokyonight)
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miSSkSambo&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miSSkSambo&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
