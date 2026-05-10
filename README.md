@@ -63,6 +63,7 @@ TryHackME_x_MWR/
 ├── Week7/
 ├── Week8/
 ├── Week9/
+├── Week10/
 |
 └── README.md
 ```
