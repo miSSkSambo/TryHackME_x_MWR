@@ -1,6 +1,6 @@
 # 🛡️ MWR CyberSec Virtual Internship – Week 11 (TLS, PKI & Reporting)
 
-🔗 **Room Link:** https://tryhackme.com/room/mwrcybersecvirtualinternshipweek11
+🔗 **Room Link:** https://tryhackme.com/room/MWR-CyberSec-Week-11-TLS-And-SSL-Fun
 
 ---
 
