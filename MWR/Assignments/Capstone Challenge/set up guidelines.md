@@ -1,4 +1,4 @@
-# MWR CyberSec Capstone — Step-by-Step Walkthrough
+# MWR CyberSec Capstone — Set up guide 
 
 ---
 
