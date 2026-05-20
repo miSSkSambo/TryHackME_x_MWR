@@ -37,7 +37,7 @@ Run:
 echo "10.80.162.30 interns.mwrcybersec.loc" | sudo tee -a /etc/hosts
 ```
 
-<img width="891" height="315" alt="image" src="https://github.com/user-attachments/assets/43e47c19-9308-4658-a8f5-5bef7c689ca0" />
+<img width="872" height="205" alt="image" src="https://github.com/user-attachments/assets/d203f8ec-bb04-4382-aeef-2418c677fb4d" />
 
 
 Replace the IP with YOUR target IP.
@@ -55,7 +55,7 @@ Expected output:
 ```bash
 10.**.**.**.*0 interns.mwrcybersec.loc
 ```
-<img width="718" height="542" alt="image" src="https://github.com/user-attachments/assets/3f400490-468b-49b2-ad0c-aeb36df881c4" />
+
 
 ---
 
@@ -66,6 +66,7 @@ Run:
 ```bash
 ping interns.mwrcybersec.loc
 ```
+<img width="851" height="138" alt="image" src="https://github.com/user-attachments/assets/6e232ca6-44c7-4792-b9a9-525b2b00a2a0" />
 
 If you receive replies:
 ✅ The target resolves correctly.
@@ -83,6 +84,8 @@ http://interns.mwrcybersec.loc
 ```
 
 You should see the MWR CyberSec Internship Application Portal.
+
+<img width="718" height="542" alt="image" src="https://github.com/user-attachments/assets/3f400490-468b-49b2-ad0c-aeb36df881c4" />
 
 ---
 
