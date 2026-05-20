@@ -13,7 +13,7 @@ Make sure:
 - AttackBox status = Connected
 - Target Machine status = ON
 
-<img width="543" height="380" alt="image" src="https://github.com/user-attachments/assets/f1ec6f1b-7988-4ded-a091-b6a756c0a804" />
+<img width="827" height="572" alt="image" src="https://github.com/user-attachments/assets/5b92b09b-099c-46af-a2e3-8f9269e19527" />
 
 
 Locate the target IP address.
@@ -36,7 +36,8 @@ Run:
 echo "10.80.162.30 interns.mwrcybersec.loc" | sudo tee -a /etc/hosts
 ```
 
-<img width="652" height="459" alt="image" src="https://github.com/user-attachments/assets/a42801ab-39f3-440f-afba-d0b905571be0" />
+<img width="987" height="667" alt="image" src="https://github.com/user-attachments/assets/4cc8f288-84e6-4ee0-a329-2a90606b68b3" />
+
 
 Replace the IP with YOUR target IP.
 
