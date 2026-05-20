@@ -181,7 +181,8 @@ Tick:
 ```text
 Also use this proxy for HTTPS
 ```
-<img width="374" height="255" alt="image" src="https://github.com/user-attachments/assets/3b16d1d9-bc6e-4d4c-8e9a-d9d577cf7f15" />
+<img width="987" height="640" alt="Screenshot 2026-05-20 120055" src="https://github.com/user-attachments/assets/649be4f4-410d-47ea-bb04-99352a10bd79" />
+
 
 Click:
 
