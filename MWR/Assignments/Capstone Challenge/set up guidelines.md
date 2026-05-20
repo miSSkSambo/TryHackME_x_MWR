@@ -53,7 +53,7 @@ cat /etc/hosts | grep interns
 Expected output:
 
 ```bash
-10.**.**.**.*0 interns.mwrcybersec.loc
+10.80.162.30 interns.mwrcybersec.loc
 ```
 
 
@@ -96,8 +96,12 @@ Open:
 ```text
 https://vintern.thinkgreencorp.net
 ```
+<img width="635" height="517" alt="image" src="https://github.com/user-attachments/assets/741f24b1-e6bc-4f16-8352-486164fbd837" />
+
 
 Verify your TryHackMe username is registered.
+
+<img width="665" height="510" alt="image" src="https://github.com/user-attachments/assets/85597b39-9678-4c0d-9ad8-9b3b8fccdad7" />
 
 ---
 
@@ -109,6 +113,8 @@ Open:
 http://interns.mwrcybersec.loc/exam/setup?token=35d66a3d01016ae21f99806a80bab5a4
 ```
 
+<img width="743" height="492" alt="image" src="https://github.com/user-attachments/assets/45236737-3766-4b69-987a-2e8404174eee" />
+
 Enter your TryHackMe username.
 
 Click:
@@ -116,6 +122,8 @@ Click:
 ```text
 Generate Config
 ```
+
+<img width="592" height="270" alt="image" src="https://github.com/user-attachments/assets/4d264847-8e34-40bd-aa43-9c25c2006cf7" />
 
 Wait for the success confirmation.
 
@@ -146,12 +154,14 @@ In Firefox:
 ```text
 Settings → Network Settings
 ```
+<img width="638" height="478" alt="image" src="https://github.com/user-attachments/assets/76960e44-b1cc-4e02-a05d-edeb639a5449" />
 
 Search:
 
 ```text
 proxy
 ```
+<img width="830" height="448" alt="image" src="https://github.com/user-attachments/assets/8271b6ad-eb16-4ef4-bc5c-7d7c47f85592" />
 
 Select:
 
@@ -171,12 +181,16 @@ Tick:
 ```text
 Also use this proxy for HTTPS
 ```
+<img width="374" height="255" alt="image" src="https://github.com/user-attachments/assets/3b16d1d9-bc6e-4d4c-8e9a-d9d577cf7f15" />
 
 Click:
 
 ```text
 OK
 ```
+
+Should it not work swtich to no proxy
+<img width="442" height="135" alt="image" src="https://github.com/user-attachments/assets/6d5931bd-94e0-42c5-a46b-152d596f0327" />
 
 ---
 
@@ -217,32 +231,8 @@ If requests appear:
 
 ---
 
-# STEP 11 — Install the Burp Certificate
 
-In Firefox browse to:
-
-```text
-http://burp
-```
-
-Download:
-
-```text
-CA Certificate
-```
-
-Import it:
-
-```text
-Settings → Privacy & Security → Certificates → View Certificates → Authorities → Import
-```
-
-Tick:
-- Trust this CA to identify websites
-
----
-
-# STEP 12 — Open Developer Tools
+# STEP 11 — Open Developer Tools
 
 Press:
 
@@ -280,6 +270,7 @@ Example:
 Email: ********.com
 Password: Pas************
 ```
+<img width="730" height="593" alt="image" src="https://github.com/user-attachments/assets/17b7d47c-2789-4338-a1bc-55d7923ba354" />
 
 Watch the registration request carefully.
 
@@ -308,144 +299,9 @@ Common endpoints:
 /api/v1/auth/register
 ```
 
----
-
-# STEP 15 — Inspect Browser Storage
-
-Open:
-
-```text
-Storage → Local Storage
-```
-
-and:
-
-```text
-Storage → Session Storage
-```
-
-Look for:
-- JWT tokens
-- accessToken
-- refreshToken
-- session values
+<img width="633" height="583" alt="image" src="https://github.com/user-attachments/assets/a8371e49-6575-4557-81f4-b2e0bf2786a7" />
 
 ---
 
-# STEP 16 — Inspect Burp HTTP History
 
-In Burp:
-
-```text
-Proxy → HTTP History
-```
-
-Watch for:
-- `/api/`
-- `/users`
-- `/admin`
-- `/applications`
-- `/profile`
-
----
-
-# STEP 17 — Send Interesting Requests to Repeater
-
-Right-click requests.
-
-Select:
-
-```text
-Send to Repeater
-```
-
-This allows:
-- modifying requests
-- replaying requests
-- changing IDs
-- testing authorization
-
----
-
-# STEP 18 — Test IDOR Vulnerabilities
-
-Example:
-
-```text
-/api/v1/users/1
-```
-
-Change:
-
-```text
-1 → 2
-```
-
-Look for:
-- other users’ data
-- unauthorized access
-- hidden information
-
----
-
-# STEP 19 — Test Admin Access
-
-Try manually browsing to:
-
-```text
-/admin
-/api/v1/admin
-/dashboard/admin
-```
-
-Check for:
-- admin dashboards
-- unauthorized access
-- sensitive information
-
----
-
-# STEP 20 — Test Hidden Endpoints
-
-Try:
-
-```text
-/swagger
-/api-docs
-/openapi.json
-/debug
-/internal
-```
-
----
-
-# STEP 21 — Test JWT Tokens
-
-If a JWT token exists:
-
-Inspect:
-- role
-- userId
-- permissions
-- admin values
-
-Look for weak validation.
-
----
-
-# STEP 22 — Test Role Manipulation
-
-If requests contain:
-
-```json
-"role":"user"
-```
-
-Try:
-
-```json
-"role":"admin"
-```
-
----
 
