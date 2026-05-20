@@ -206,6 +206,6 @@ This week demonstrated:
 # ⚠️ Disclaimer
 
 This repository is for **educational purposes only**.  
-All activities were performed in a **controlled TryHackMe lab environment**.
+All activities were performed in a **controlled TryHackMe lab environment**
 
 ---
