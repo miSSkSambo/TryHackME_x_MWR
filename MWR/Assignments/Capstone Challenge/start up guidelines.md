@@ -18,6 +18,7 @@ Make sure:
 
 Locate the target IP address.
 
+
 Example:
 
 ```bash
@@ -36,10 +37,12 @@ Run:
 echo "10.80.162.30 interns.mwrcybersec.loc" | sudo tee -a /etc/hosts
 ```
 
-<img width="987" height="667" alt="image" src="https://github.com/user-attachments/assets/4cc8f288-84e6-4ee0-a329-2a90606b68b3" />
+<img width="891" height="315" alt="image" src="https://github.com/user-attachments/assets/43e47c19-9308-4658-a8f5-5bef7c689ca0" />
 
 
 Replace the IP with YOUR target IP.
+
+<img width="966" height="376" alt="image" src="https://github.com/user-attachments/assets/2bc4577a-cae8-44f5-94e9-1bac39d5e0f1" />
 
 Verify:
 
@@ -52,6 +55,7 @@ Expected output:
 ```bash
 10.**.**.**.*0 interns.mwrcybersec.loc
 ```
+<img width="718" height="542" alt="image" src="https://github.com/user-attachments/assets/3f400490-468b-49b2-ad0c-aeb36df881c4" />
 
 ---
 
