@@ -598,6 +598,8 @@ Web-Security-Roadmap/
 └── Week-16-QnA-and-Close-Off/
 ```
 
+<img width="577" height="349" alt="WhatsApp Image 2026-06-10 at 00 09 29" src="https://github.com/user-attachments/assets/1ddf17c4-f54b-434d-905c-3ac03feb99fc" />
+
 ---
 
 # ⚠️ Disclaimer
