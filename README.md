@@ -89,7 +89,6 @@ TryHackME_x_MWR/
 ├── Week9/
 ├── Week10/
 ├── Week11/
-├── Capstone Challenge/
 |
 └── README.md
 ```
